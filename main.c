@@ -63,7 +63,7 @@ void better_than_yesterday(struct student list[], int size, int count[]) {
 void all_star(struct student list[], int size, int count[]) {
     for (int i = 0; i < size / 20; i++) {
         count[i] = count[i] + 2;
-    }
+    }//dfdfdf
 }
 
 /*이번 학기 1등에게 전액 장학금, 지난학기보다 1.5배증가한 학생에게 50프로, 5프로안에 성적든 학생에게 50프로,
